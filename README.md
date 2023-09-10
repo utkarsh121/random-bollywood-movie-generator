@@ -51,3 +51,7 @@ After activating the plugin and configuring the settings, you can add a random B
 
    ```html
    [random-bollywood-movie-block]
+
+## Behavior
+
+This classic block will produce a random Bollywood movie name. On my site this event takes place on page load, but this can be customized for a button click event as well. Please see the site URL link for this repository for a working demo.
