@@ -3,7 +3,7 @@
 Plugin Name: Random Bollywood Movie Block
 Description: Adds a custom block to fetch and display random Bollywood movies.
 Version: 1.0
-Author: Your Name
+Author: Utkarsh Choudhary
 */
 
 // Shortcode function for the custom block
