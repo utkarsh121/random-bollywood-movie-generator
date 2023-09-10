@@ -31,7 +31,7 @@ The Random Bollywood Movie Block Plugin is a WordPress plugin that allows you to
 4. **Configure the Plugin**:
    - Go to "Plugins" > "Plugin File Editor."
    - Navigate to "Random Bollywood Movie Block" and enter your TMDb API key in the code.
-   - Choose the original language for movies from the dropdown.
+   - Edit sorting and origin language parameters as per your need.
 
 ## Usage
 
